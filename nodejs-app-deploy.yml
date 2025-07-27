@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "pdockersavant/nodejs-app:latest"
+        image: "sachinchauhan9527/nodejs_deployment_cicd_eks:latest"
         ports:
           - containerPort: 5000
 ---
